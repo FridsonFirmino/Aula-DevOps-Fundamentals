@@ -2,10 +2,6 @@
 
 Projeto da aula DevOps Fundamentals - 2026
 
-# Nota do Aluno
-
-Tive dificuldade em criar a minha conta do GITLAB por isso estou a realizar a entrega do trabalho via GITHUB
-
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
